@@ -27,7 +27,7 @@
 }
 
 .c-img{
-    height: 100%;
+    height: 30rem;
     object-fit: cover;
     filter: brightness(0.9);
 
@@ -108,3 +108,54 @@ body{
     transform: scale(1.15);
 
 }
+
+.carousel {
+    margin-top: 0.1px;
+}
+.face-img {
+    width: 50%;
+    height: 50%;
+  }
+
+.imgt1{
+    margin-left: 220px;
+    
+}
+
+.form-email{
+    margin-left: 220px ;
+}
+
+.img-fb {
+    border-radius: 15px 50px 30px 5px;
+    background: #73AD21;
+    padding: 20px;
+    width: 800px;
+    height: 650px;
+    margin-left: -20px;
+    
+  }
+
+.img-mobile{
+    border-radius: 15px;
+    background: #73AD21;
+    padding: 20px;
+    width: 800px;
+    height: 650px;
+    margin-left: 409px;
+  
+    
+  }
+
+.img-love{
+
+    border-radius: 15px;
+    background: #73AD21;
+    padding: 20px;
+    width: 800px;
+    height: 650px;
+    margin-left: -100px;
+
+}
+
+
